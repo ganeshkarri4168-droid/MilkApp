@@ -12,7 +12,7 @@ const Footer = () => {
         boxSizing: "border-box",
       }}
     >
-      <p>&copy; 2025 Milk. All rights reserved.</p>
+      <p>&copy; 2025 Milk. All rights .</p>
     </footer>
   );
 };
